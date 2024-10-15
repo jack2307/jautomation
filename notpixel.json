@@ -1,0 +1,69 @@
+{
+    "tasks": [
+      {
+        "type": "joinchannel",
+        "title": "Not Pixel Channel",
+        "url": "https://web.telegram.org/k/#@notpixel_channel"
+      },
+      {
+        "type": "squad",
+        "title": "Join Squad",
+        "url": ""
+      },
+      {
+        "type": "joinchannel",
+        "title": "Notcoin community",
+        "url": "https://web.telegram.org/k/#@notcoin"
+      },
+      {
+        "type": "nocheck",
+        "title": "Not Pixel on X.com",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Notcoin on X.com",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Paint pixels • ",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Invite frens",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Sliver League Bonus",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Gold League Bonus",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Platinum League Bonus",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Pixelize your photo",
+        "url": ""
+      },
+      {
+        "type": "skip",
+        "title": "Open League",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Play JetTon Game",
+        "url": ""
+      }
+    ]
+  }  

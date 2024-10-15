@@ -1,0 +1,113 @@
+{
+    "tasks": [
+      {
+        "type": "nocheck",
+        "title": "Subscribe YouTube",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Watch YouTube Shorts #1",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Watch YouTube Shorts #2",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Watch YouTube Shorts #3",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Watch YouTube Shorts #5",
+        "url": ""
+      },
+      {
+        "type": "youtubecode",
+        "title": "Watch YouTube Shorts #6",
+        "content": "241086",
+        "url": ""
+      },
+      {
+        "type": "youtubecode",
+        "title": "Watch YouTube Shorts #4",
+        "content": "159390",
+        "url": ""
+      },
+      {
+        "type": "youtubecode",
+        "title": "Watch YouTube Video #1",
+        "content": "070624",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Watch YouTube Video #2",
+        "url": ""
+      },
+      {
+        "type": "connectwallet",
+        "title": "Connect TON wallet",
+        "content": "",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Bums",
+        "content": "",
+        "url": ""
+      },
+      {
+        "type": "nocheck",
+        "title": "Play Etaku",
+        "content": "",
+        "url": ""
+      },
+      {
+        "type": "joinchannel",
+        "title": "Follow Stock Market & Trading",
+        "content": "",
+        "url": "https://web.telegram.org/k/#@trading"
+      },
+      {
+        "type": "joinchannel",
+        "title": "Follow Crypto Insider",
+        "content": "",
+        "url": "https://web.telegram.org/k/#@cryp"
+      },
+      {
+        "type": "joinchannel",
+        "title": "Follow Mr. Buzz",
+        "content": "",
+        "url": "https://web.telegram.org/k/#@buzz"
+      },
+      {
+        "type": "joinchannel",
+        "title": "Follow Venture Capital",
+        "content": "",
+        "url": "https://web.telegram.org/k/#@venture"
+      },
+      {
+        "type": "joinchannel",
+        "title": "Follow Startups & Ventures",
+        "content": "",
+        "url": "https://web.telegram.org/k/#@startups"
+      },
+      {
+        "type": "joinchannel",
+        "title": "Follow CATS Channel",
+        "content": "",
+        "url": "https://web.telegram.org/k/#@Cats_housewtf"
+      },
+      {
+        "type": "joinchannel",
+        "title": "Follow Roxman in Telegram",
+        "content": "",
+        "url": "https://web.telegram.org/k/#@roxman"
+      }
+    ]
+  }
+  
