@@ -27,7 +27,7 @@
   },
   {
     "id": "7200016718",
-    "url": "https://static.notpx.app/templates/5157221651",
+    "url": "https://static.notpx.app/templates/7200016718",
     "color": "12",
     "coordinate": [
       {
@@ -35,6 +35,32 @@
         "y1": 290,
         "x2": 415,
         "y2": 555
+      }
+    ]
+  },
+  {
+    "id": "446378180",
+    "url": "https://static.notpx.app/templates/446378180",
+    "color": "29",
+    "coordinate": [
+      {
+        "x1": 75,
+        "y1": 260,
+        "x2": 425,
+        "y2": 510
+      }
+    ]
+  },
+  {
+    "id": "5200542566",
+    "url": "https://static.notpx.app/templates/5200542566",
+    "color": "15",
+    "coordinate": [
+      {
+        "x1": 75,
+        "y1": 230,
+        "x2": 425,
+        "y2": 510
       }
     ]
   }
