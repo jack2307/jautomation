@@ -1,23 +1,16 @@
 [
     {
-      "id": "2107125948",
-      "url": "https://static.notpx.app/templates/2107125948",
-      "color": "30"
-    },
-    {
-      "id": "446378180",
-      "url": "https://static.notpx.app/templates/446378180",
-      "color": "30"
-    },
-    {
       "id": "917981974",
-      "url": "https://static.notpx.app/templates/917981974",
-      "color": "30"
-    },
-    {
-      "id": "516943213",
-      "url": "https://static.notpx.app/templates/516943213",
-      "color": "30"
+      "url": "https://static.notpx.app/templates/2107125948",
+      "color": "30",
+      "coordinate": [
+        {
+          "x1": 8,
+          "y1": 420,
+          "x2": 110,
+          "y2": 555
+        }     
+      ]
     }
   ]
   
