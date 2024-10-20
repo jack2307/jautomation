@@ -1,143 +1,25 @@
 [
   {
-    "id": "7319890725",
-    "url": "https://static.notpx.app/templates/7319890725",
-    "color": "30",
-    "coordinate": [
-      {
-        "x1": 8,
-        "y1": 420,
-        "x2": 110,
-        "y2": 555
-      }
-    ]
-  },
-  {
-    "id": "5157221651",
-    "url": "https://static.notpx.app/templates/5157221651",
-    "color": "22",
-    "coordinate": [
-      {
-        "x1": 70,
-        "y1": 315,
-        "x2": 230,
-        "y2": 410
-      }
-    ]
-  },
-  {
-    "id": "7200016718",
-    "url": "https://static.notpx.app/templates/7200016718",
-    "color": "12",
-    "coordinate": [
-      {
-        "x1": 70,
-        "y1": 290,
-        "x2": 415,
-        "y2": 555
-      }
-    ]
-  },
-  {
-    "id": "446378180",
-    "url": "https://static.notpx.app/templates/446378180",
-    "color": "29",
-    "coordinate": [
-      {
-        "x1": 75,
-        "y1": 260,
-        "x2": 425,
-        "y2": 510
-      }
-    ]
-  },
-  {
-    "id": "5200542566",
-    "url": "https://static.notpx.app/templates/5200542566",
-    "color": "15",
-    "coordinate": [
-      {
-        "x1": 75,
-        "y1": 230,
-        "x2": 425,
-        "y2": 510
-      }
-    ]
-  },
-  {
-    "id": "1709562088",
-    "url": "https://static.notpx.app/templates/1709562088",
-    "color": "25",
-    "coordinate": [
-      {
-        "x1": 69,
-        "y1": 234,
-        "x2": 196,
-        "y2": 388
-      }
-    ]
-  },
-  {
     "id": "799818229",
-    "url": "https://static.notpx.app/templates/1709562088",
-    "color": "25",
-    "coordinate": [
-      {
-        "x1": 123,
-        "y1": 230,
-        "x2": 407,
-        "y2": 314
-      }
-    ]
-  }, {
-    "id": "799818229",
-    "url": "https://static.notpx.app/templates/1709562088",
     "color": "5",
     "coordinate": [
       {
-        "x1": 123,
-        "y1": 230,
-        "x2": 407,
-        "y2": 314
+        "x1": 827,
+        "y1": 376,
+        "x2": 944,
+        "y2": 390
       }
     ]
   },
   {
-    "id": "5522474073",
-    "url": "https://static.notpx.app/templates/1709562088",
-    "color": "20",
+    "id": "482706122",
+    "color": "9",
     "coordinate": [
       {
-        "x1": 292,
-        "y1": 222,
-        "x2": 407,
-        "y2": 362
-      }
-    ]
-  },
-  {
-    "id": "737065053",
-    "url": "https://static.notpx.app/templates/1709562088",
-    "color": "25",
-    "coordinate": [
-      {
-        "x1": 89,
-        "y1": 302,
-        "x2": 412,
-        "y2": 445
-      }
-    ]
-  },
-  {
-    "id": "5315487777",
-    "url": "https://static.notpx.app/templates/1709562088",
-    "color": "2",
-    "coordinate": [
-      {
-        "x1": 229,
-        "y1": 340,
-        "x2": 292,
-        "y2": 368
+        "x1": 66,
+        "y1": 417,
+        "x2": 108,
+        "y2": 444
       }
     ]
   }
